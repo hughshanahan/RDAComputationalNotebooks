@@ -6,11 +6,11 @@
 address, how this IG is aligned with the RDA mission, and how this IG
 would be a value-added contribution to the RDA community):*
 
-Notebooks, specifically Jupyter notebooks (but also notebooks from platforms such  as RStudio) are generating a great deal of excitement and are  potentially a significant step forward in terms of reproducibility,  education, code documentation and academic publishing. A recent[ paper](https://github.com/rdanotebooksbof/outline/blob/master/www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf) found nearly 1.2 Million unique notebooks based on searches through github; another even more recent [blog](https://kyso.io/KyleOS/nbestimate) gives evidence of nearly *5 Million notebooks* on github.
+Notebooks, specifically Jupyter notebooks (but also notebooks from platforms such  as RStudio) are generating a great deal of excitement and are  potentially a significant step forward in terms of reproducibility,  education, code documentation and academic publishing. A recent[ paper](https://github.com/rdanotebooksbof/outline/blob/master/www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf) found nearly 1.2 Million unique notebooks based on searches through GitHub; another even more recent [blog](https://kyso.io/KyleOS/nbestimate) gives evidence of nearly *5 Million notebooks* on GitHub.
 
-This is colossal growth amongst use by researchers. **The RDA absolutely needs to engage with this as it enables both sharing of data and software.**
+This is colossal growth in use by researchers. **The RDA absolutely needs to engage with this as it enables both sharing of data and software.**
 
-More recently the deployment of resources such as[ JupyterHub](https://jupyter.org/hub),[ myBinder](https://gke.mybinder.org/) and[ EGI notebooks](https://notebooks.egi.eu/hub/login) mean that notebooks can be deployed on a cloud and hence obviates  issues with installed libraries. One potential result of this is that it would represent the easiest pathway for users to use cloud computing  resources for research which could transform the use of such resources.  It is clear that frameworks such as EOSC and the US National Data  Service will make extensive use of notebooks and their offerings  affected by them. 
+More recently the deployment of resources such as [JupyterHub](https://jupyter.org/hub), [myBinder](https://gke.mybinder.org/) and [EGI notebooks](https://notebooks.egi.eu/hub/login) means that notebooks can be deployed on a cloud and hence obviates issues with installed libraries. One potential result of this is that it would represent the easiest pathway for users to use cloud computing  resources for research which could transform the use of such resources.  It is clear that frameworks such as EOSC and the US National Data  Service will make extensive use of notebooks and their offerings  affected by them. 
 
 The proposed Interest Group will build on the BoF meetings held on this topic. A set of topics (discussed in detail in the objectves below) has been arrived at that a) would make a tangible contribution to the notebook community and b) make use of the configuration of expertise within the RDA community that would not be available elsewhere. Briefly these are 
 
@@ -35,7 +35,7 @@ inside or outside of RDA.):*
 
 The objective of this IG is to allow a forum to discuss topics related to notebooks that will have an impact and is not being carried out elsewhere (specifically as it draws on the competences of the RDA community). The following topics have been identified that fit these criteria. We note that these draws on the expertise of other groups within the RDA but  is different from their acitivities.
 
-- Publishing notebooks - specifically to consider what are the necessary steps (such as the provision of metadata standards, guidance and integration with, for example, the PID graph). This would draw on the experiences of th [Software Source Code Identification WG](https://www.rd-alliance.org/groups/software-source-code-identification-wg), the  [Software Source Code IG](https://www.rd-alliance.org/groups/software-source-code-ig) and the [Virtual Research Environment IG (VRE-IG)](https://www.rd-alliance.org/groups/vre-ig.html). 
+- Publishing notebooks - specifically to consider what are the necessary steps (such as the provision of metadata standards, guidance and integration with, for example, the PID graph). This would draw on the experiences of the [Software Source Code Identification WG](https://www.rd-alliance.org/groups/software-source-code-identification-wg), the [Software Source Code IG](https://www.rd-alliance.org/groups/software-source-code-ig) and the [Virtual Research Environment IG (VRE-IG)](https://www.rd-alliance.org/groups/vre-ig.html). 
 - Long term preservation of notebooks - specifically to consider the steps necessary to preserve notebooks on a time-scale of up to ten years, as opposed to their usual degradation after about two years. This could include providing guidance on preservation and making decisions on the level of preservation. This would have overlap with Software IG and WG mentioned above and the preservation-related groups within the RDA.
 - Notebooks as FAIR digital objects - specifically on how to make notebooks themselves more FAIR (including workflows that use notebooks) and issues such as licencing issues/guidance when data sets are one licence but the notebook is another.
 - Notebook for Big data and compute - specifically to address the following questions - how to provide scalable batch computing from notebooks; how can we ensure reproducibility from different JupyterHub installs and what are the community's best practices?
@@ -51,12 +51,12 @@ activity with relevant related groups.):*
 examples of WG topics or supporting IG-level outputs that might lead to
 WGs later on.):*
 
-This IG will consider the four initial topics and determine how specific WG's could be built out of them. The outputs from this IG will be a set of WG proposals. 
+This IG will consider the four initial topics and determine how specific WGs could be built out of them. The outputs from this IG will be a set of WG proposals. 
 
 ***Mechanism** (Describe how often your group will meet and how will you
 maintain momentum between Plenaries.):*
 
-The IG will have a call once every two months. A [github repository](https://github.com/hughshanahan/RDAComputationalNotebooks) has been set up which will be used to put together WG proposals.
+The IG will have a call once every two months. A [GitHub repository](https://github.com/hughshanahan/RDAComputationalNotebooks) has been set up which will be used to put together WG proposals.
 
 ***Timeline** (Describe draft milestones and goals for the first 12
 months):*
@@ -73,7 +73,7 @@ September 2020 - Call to prepare for RDA San José
 
 October 2020 - RDA San José plenary
 
-November 2020 - Call to review WG's and consider if additional round of WG's are necessary. 
+November 2020 - Call to review WGs and consider if additional round of WGs are necessary. 
 
 January 2021 - Call to discuss progress.
 
